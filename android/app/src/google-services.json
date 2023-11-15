@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "428922308220",
+    "firebase_url": "https://instructflow-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "instructflow",
+    "storage_bucket": "instructflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428922308220:android:665c8673d10c80b07febf9",
+        "android_client_info": {
+          "package_name": "com.franklyfrank.instructflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjec6lH6fVM77XmJMXd266h6vQQiOhRBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

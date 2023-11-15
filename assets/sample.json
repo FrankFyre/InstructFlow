@@ -1,0 +1,7 @@
+{step_2:{stepcount: 2, image_url: https://example.com/images/step2.jpg, description: When water is at a hard boil, add the chicken. Return to hard boil, let scum come to the surface. Boil for 5 minutes. Discard all the water, including the scum.},
+  step_1: {stepcount: 1, video_url: https://example.com/videos/step1.mp4, image_url: https://example.com/images/step1.jpg, description: Boil a large pot of water. In the meantime, clean the chicken by exfoliating with kosher or coarse salt. Rinse chicken well, inside and outside.}, 
+  step_3: {stepcount: 3, description: Step 3}}
+
+  [null, {imgurl: , description: Have you returned your aprons and caps?},
+   {imgurl: , description: You are not holdiing to any  office keys etc?},
+    {imgurl: , description: Have you ensured all your station machines are off?}]
