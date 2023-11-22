@@ -1,16 +1,8 @@
 # instructflow
 
-A new Flutter project.
+This final-year project aims to develop a cross-platform application that guides illiterate users in following recipes
+and instructional-based tasks while working in small cafes and restaurants. This application enables 
+these users to perform tasks easily and independently.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The full report can be seen here. https://1drv.ms/b/s!As9u1THvqfIugdZ6tYkS83Z0omO5BQ?e=by5KbQ
